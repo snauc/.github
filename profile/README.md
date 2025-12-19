@@ -7,8 +7,8 @@
 
 <p align="center">
   <a href="https://www.snauc.cm">🌐 Website</a> •
-  <a href="https://contact.snauc.cm">📩 Contact</a> •
-  <a href="#contribuer">🤝 Contribuer</a>
+  <a href="https://snauc.cm/contact">📩 Contact</a> •
+  <a href="https://snauc.cm/securite/ai/connexion">🤝 Contribuer</a>
 </p>
 
 ---
